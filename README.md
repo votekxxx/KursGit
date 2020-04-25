@@ -4,3 +4,5 @@ I teraz też w drugiej linii
 Kolejne zmiany
 Dodaje zmiany bezpośrednio w GIT
 Dodałem zmiany do Readme z poziomu brancha QA
+
+Zmiany dodane z VS
